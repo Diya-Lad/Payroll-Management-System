@@ -1,0 +1,16 @@
+.title1 {
+    background-color: rgb(4, 139, 4);
+    color: white;
+    border: 3px solid green;
+    font-size: 20px;
+    margin: 0px;
+}
+
+thead {
+    background-color: rgb(61, 156, 61);
+    color: white;
+}
+
+.table {
+    overflow-y: scroll;
+}

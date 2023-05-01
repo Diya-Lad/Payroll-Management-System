@@ -1,0 +1,20 @@
+.list1 a {
+    border: 3px solid green;
+}
+
+li {
+    list-style-type: none;
+    color: rgba(22, 19, 19, 0.76);
+    font-weight: 700;
+    font-size: large;
+    cursor: pointer;
+    
+}
+
+.items {
+    padding: 0;
+}
+
+span {
+    margin-top: 1%;
+}

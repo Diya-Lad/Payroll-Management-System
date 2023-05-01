@@ -1,0 +1,11 @@
+.login{
+    width: 500px;
+    border: 2px solid green;
+    align-items: center;
+    margin-top: 6%;
+}
+
+.btn{
+    margin-left: 34%;
+    margin-bottom: 2%;
+}
